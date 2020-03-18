@@ -17,3 +17,7 @@ I'm not here to teach you how React Native works. But there are a couple of litt
 5. `react-native run-android` or `react-native run-ios`, the yoozh.
 
 Have fun.
+
+## One more thing...
+
+We also have a website: http://divoc.it. Enjoy.
